@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+.clip-hexagon {
+  clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+}
+
+
+.bg-custom {
+  background-image: url('../src/assets/background.jpg');
+}
